@@ -54,5 +54,5 @@ release/ - built exe
 if you wanna add shit, open issue or pr.
 
 thanks ulf frisk for pcileech and nlohmann for json.
-
+1568339003445477470/vWdEITvRkZSUkbIrOZxLDqXk2Ilzezqm0h1x9kjq7-t7Ca06Bm-3ekDTTZPR9lnx6w8X
 thats it
